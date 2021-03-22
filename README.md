@@ -8,3 +8,4 @@ spring
 assert
 m1
 inteli
+hash
