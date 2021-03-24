@@ -11,3 +11,4 @@ inteli
 hash
 python3
 input
+range
