@@ -10,3 +10,4 @@ m1
 inteli
 hash
 python3
+input
