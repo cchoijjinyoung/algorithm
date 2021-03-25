@@ -12,3 +12,8 @@ hash
 python3
 input
 range
+find
+count
+len
+[]
+list()
