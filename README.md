@@ -16,4 +16,4 @@ find
 count
 len
 []
-list()
+isupper, lower
