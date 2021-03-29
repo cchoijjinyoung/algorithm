@@ -19,3 +19,4 @@ len
 isupper, lower
 practice
 enumerate
+max, min
