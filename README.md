@@ -20,3 +20,4 @@ isupper, lower
 practice
 enumerate
 max, min
+mxlogi
