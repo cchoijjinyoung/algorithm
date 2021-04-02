@@ -23,3 +23,5 @@ max, min
 mxlogi
 jvm
 java
+agent
+classloader
