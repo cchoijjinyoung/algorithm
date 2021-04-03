@@ -25,3 +25,4 @@ jvm
 java
 agent
 classloader
+byte
