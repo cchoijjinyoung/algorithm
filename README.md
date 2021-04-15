@@ -33,3 +33,4 @@ sigol
 dw
 7~
 square
+mac
