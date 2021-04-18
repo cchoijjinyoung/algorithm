@@ -36,3 +36,4 @@ square
 mac
 black
 break
+study
