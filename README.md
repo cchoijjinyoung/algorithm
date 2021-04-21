@@ -39,3 +39,4 @@ break
 study
 spring
 sort
+party
