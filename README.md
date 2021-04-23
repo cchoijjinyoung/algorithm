@@ -40,4 +40,5 @@ study
 spring
 sort
 party
-roof
+loop
+switch
